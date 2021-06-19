@@ -8,6 +8,9 @@ import pandas as pd
 import spacy
 import re
 
+# import clean_data.py 
+
+
 nlp = spacy.load('en_core_web_sm', disable=['parser', 'ner'])
 
 data = pd.read_csv('/datasets/imdb_reviews_small.tsv', sep='\t')
