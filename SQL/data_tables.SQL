@@ -1,3 +1,5 @@
+#Print the company_name field. Find the number of taxi rides for each taxi company for November 15-16, 2017, name the resulting field trips_amount, and print it, too. Sort the results by the trips_amount field in descending order.
+
 SELECT
     cabs.company_name AS company_name,
     COUNT(trip_id) AS trips_amount
