@@ -12,5 +12,5 @@ Summary of steps taken:
 2. Split data into training and test sets.
 3. Ran EDA to check for target imbalance.
 4. Created nueral network using TensorFlow & ResNet50 Architecture.
-5. Optomized hyperparameters.
-6. Tested model on cloud based GPU.
+5. Trained model and optomized hyperparameters to improve RMSE.
+6. Tested model on cloud based GPU and achieved accurate results.
