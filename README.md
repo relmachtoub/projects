@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @relmachtoub
+- 👋 Hi, I’m @relmachtoub, check out my portfolio!
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning a.i.
 - 💞️ I’m looking to collaborate on positive impact projects
