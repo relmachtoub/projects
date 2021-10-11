@@ -7,6 +7,12 @@ The shops are equipped with cameras in the checkout area which are triggered whe
 
 Computer vision methods can be used to determine age of a person from a photo.
 
-The task then is to build and evaluate a model for verifying people's age.
+The task then is to build and evaluate a model for verifying people's age based off a photo.
 
-To start working on the task, you'll have a set of photographs of people with their ages indicated.
+Summary of steps taken:
+
+1. Uploaded data using image data generator.
+2. Ran EDA to check for target imbalance.
+3. Created nueral network using TensorFlow & ResNet50 Architecture.
+4. Optomized hyperparameters.
+5. Tested model on cloud based GPU.
