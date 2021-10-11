@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @relmachtoub
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning a.i.
-- 💞️ I’m looking to collaborate on eco-friendly projects
+- 💞️ I’m looking to collaborate on positive impact projects
 - 📫 How to reach me: ryelmach@gmail.com
 
 <!---
