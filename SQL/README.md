@@ -1,4 +1,4 @@
-The objective of this project was to import the files,
+The objective of this project was to import files from Zuber ride sharing company,
 study the data they contain, make sure the data types are correct,
 identify the top 10 neighborhoods in terms of drop-offs.
 
