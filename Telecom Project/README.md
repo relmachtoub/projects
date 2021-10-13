@@ -12,7 +12,7 @@ Summary of steps taken:
 5. Convert categorical columns to OHE.
 6. Check for class imbalance.
 7. Split data into training and test set.
-8. Create and test different models such as decision tree, LGBM Classifier,
+8. Create and test different models such as Decision tree Classifier & LGBM Classifier.
 
 
 Clarifying Report
