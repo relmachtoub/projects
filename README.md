@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @relmachtoub, check out my portfolio!
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning a.i.
-- 💞️ I’m looking to collaborate on positive impact projects
+- 👋 Hi, I’m @relmachtoub, check out my portfolio in Data Science.
+- 👀 I am well trained in Python, machine learning, sentiment analysis, computer vision, SQL, and scaling large data for ML.
+- 🌱 I’m currently learning PySpark and ML for large data with IBM.
+- 💞️ I love extracting meaning from data and applying it towards positive impact projects.
 - 📫 How to reach me: ryelmach@gmail.com
 
 <!---
