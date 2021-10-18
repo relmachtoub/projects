@@ -1,10 +1,8 @@
 Project description:
 
-Create computer vision model that can recognize underage customers based off their photo.
-
-The shops are equipped with cameras in the checkout area which are triggered when a person is buying alcohol.
-
-The task then is to build and evaluate a model for verifying people's age based off a photo.
+- Create computer vision model that can recognize underage customers based off their photo.
+- The shops are equipped with cameras in the checkout area which are triggered when a person is buying alcohol.
+- The task then is to build and evaluate a model for verifying people's age based off a photo.
 
 Summary of steps taken:
 
