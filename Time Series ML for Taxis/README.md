@@ -21,3 +21,4 @@ Conclusion:
     - Random Forest Regressor, RMSE < 48, time to compute < 40 seconds
     - Both models worked successfully however Linear Regression works much faster.
 
+ 
