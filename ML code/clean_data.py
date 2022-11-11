@@ -8,3 +8,4 @@ def clean_data(df):
         index = df[(df[n] > RF) | (df[n] < LF)].index
         df.loc[index, n] = df[n].median()
     return df
+ 
