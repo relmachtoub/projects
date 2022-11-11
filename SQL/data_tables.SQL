@@ -105,4 +105,4 @@ WHERE
     EXTRACT (DOW from trips.start_ts) = 6 AND trips.pickup_location_id = 50
     AND trips.dropoff_location_id = 63
 ORDER BY
-    trips.trip_id 
+    trips.trip_id  
