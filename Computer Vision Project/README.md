@@ -24,3 +24,4 @@ Conclusions:
 - Relu activation function was used to cut off negative values, because age can't be < 0.
 - We successfully reached val_mae < 7.
 - If we want to further decrease MAE we can add more data by zooming in on the photos or rotating them.
+.
