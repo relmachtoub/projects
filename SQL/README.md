@@ -14,3 +14,4 @@ Summary of steps taken:
 
 Conclusion: We reject the null hypothesis. The p-value of the test is less than an alpha value of 0.05, 
 hence there is evidence that the average duration of rides on Saturdays is significantly different for good and bad weather conditions.
+ 
