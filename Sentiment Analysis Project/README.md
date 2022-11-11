@@ -23,3 +23,4 @@ Conclusion:
 - The model with the best APS is TF-IDF & LR.
 - The model with the best ROC AUC is BERT & LR.
 - The quickest model is TF-IDF & LR.
+v
